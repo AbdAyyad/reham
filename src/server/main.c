@@ -15,7 +15,7 @@
 #include <time.h>
 
 #define SZ 32 * 1024 //buffer size
-#define MAX_TRAILS 2
+#define MAX_TRAILS 25
 #define UPPER 9999
 #define LOWER 1
 
